@@ -1,3 +1,5 @@
+> **Read `AGENTS.md` first** — it carries the shared harness (startup reads, rules, closeout).
+
 # Archos Equities
 
 Archos Equities finds quality investing opportunities, analyzes them, and hands me the
